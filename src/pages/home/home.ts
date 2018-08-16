@@ -26,14 +26,14 @@ export class HomePage {
 
 
         this.navCtrl.push(AboutPage, {
-            class1: class1,
-            class2: class2,
-            class3: class3,
-            class4: class4,
-            class5: class5,
-            class6: class6,
-            class7: class7,
-            class8: class8,
+            clas1: class1,
+            clas2: class2,
+            clas3: class3,
+            clas4: class4,
+            clas5: class5,
+            clas6: class6,
+            clas7: class7,
+            clas8: class8,
         });
     }
 }
