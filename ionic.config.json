@@ -1,0 +1,8 @@
+{
+  "name": "SM08",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "cf5f6697"
+}
